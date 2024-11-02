@@ -3,9 +3,6 @@
 ## I'm Dipo 🧐 or you can call me Paupau/Brodip thats fine 😁
 
 Here are some fact 💫
-
-Here are some ideas to get you started:
-
 | Category               | Facts                                             |
 |------------------------|---------------------------------------------------|
 | **Timezone**           | WIT (UTC+9, 📍 Indonesia)                         |
