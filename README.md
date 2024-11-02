@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello There I'm Dipo 🧐 or you can call me Paupau/Brodip thats fine 😁
 
-<!--
-**imdipo/imdipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some fact 💫
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category               | Facts                                             |
+|------------------------|---------------------------------------------------|
+| **Timezone**           | WIT (UTC+9, 📍 Indonesia)                         |
+| **Languages**          | Indonesian but i do English too 😋                |
+| **Discord**            | brodip.                                             |
+| **Aliases**            | Po 🤚                                              |
+| **MBTI**               | ENFP-A                                             |
+| **Current Education**  | AI Engineering Major at ITS (Sepuluh Nopember Institute of Technology)|
+| **Interests**          | Data Science, Machine Learning, Front-end Dev |
+| **Programming Languages** | Java, Python, PHP                    |
+
+## Who are you? 🔍
+For now, I'm someone who loves to dive deeper into subjects that catch my interest. I've taken on many projects to expand my knowledge and skills. 
+I also enjoy helping others understand concepts that I’ve already mastered, creating a win-win situation — they can make progress, and I get to reinforce my knowledge by teaching and explaining to others.
