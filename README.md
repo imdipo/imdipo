@@ -20,3 +20,6 @@ I also enjoy helping others understand concepts that I’ve already mastered, cr
 <br> <br>
 For now, that’s all from me. I hope to achieve more in the future so I can share even more with you all! 👋
 
+#### Languages I'm Learning and Using:
+[<img src="assets/c.png" height="30">]([https://www.java.com/](https://id.wikipedia.org/wiki/C_(bahasa_pemrograman))) [<img src="assets/cpp.png" height="30">](https://id.wikipedia.org/wiki/C%2B%2B)
+[<img src="assets/html.png" height="30">](https://en.wikipedia.org/wiki/HTML) [<img src="assets/Python.png" height="30">](https://en.wikipedia.org/wiki/Python_(programming_language)) [<img src="assets/MySql.png" height="30">](https://en.wikipedia.org/wiki/SQL) [<img src="assets/postgre.png" height="30">](https://www.postgresql.org/) [<img src="assets/Laravel.png" height="30">](https://laravel.com/) [<img src="assets/Java.png" height="30">](https://www.java.com/) [<img src="assets/pngwing.com.png" height="30">]([https://www.java.com/](https://www.phpmyadmin.net/)) 
