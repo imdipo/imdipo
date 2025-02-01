@@ -24,7 +24,12 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
   <li> <b>Data Science & Machine Learning</b> </li> 
 I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes
 
-<img src="https://github.com/imdipo/gambar/blob/main/gambar/pythoned.png" alt="Scikit-Learn" style="width: 75px; height: auto;"><img src="https://github.com/imdipo/gambar/blob/main/gambar/0_aFhjkhfLZOJpdL6y.png" alt="Scikit-Learn" style="width: 75px; height: auto; margin-right: 30px;"><img src="https://github.com/imdipo/gambar/blob/main/gambar/Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" style="width: 75px; height: auto; margin-right: 30px;"><img src="https://github.com/imdipo/gambar/blob/main/gambar/thumbnail_numpy_tutorial_logo-neuraspike.png.png" alt="Scikit-Learn" style="width: 75px; height: auto; margin-right: 30px;"><img src="https://github.com/imdipo/gambar/blob/main/gambar/pytorch-icon-1694x2048-jgwjy3ne.png" alt="Scikit-Learn" style="width: 75px; height: auto; margin-right: 30px;"><img src="https://github.com/imdipo/gambar/blob/main/gambar/Jupyter_logo.svg.png" alt="Scikit-Learn" style="width: 75px; height: auto; margin-right: 30px;">
+<img src="https://github.com/imdipo/gambar/blob/main/gambar/pythoned.png" alt="Python" width="75" height="auto"> &nbsp;
+<img src="https://github.com/imdipo/gambar/blob/main/gambar/0_aFhjkhfLZOJpdL6y.png" alt="Pandas" width="75" height="auto"> &nbsp;
+<img src="https://github.com/imdipo/gambar/blob/main/gambar/Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="75" height="auto"> &nbsp;
+<img src="https://github.com/imdipo/gambar/blob/main/gambar/thumbnail_numpy_tutorial_logo-neuraspike.png.png" alt="NumPy" width="75" height="auto"> &nbsp;
+<img src="https://github.com/imdipo/gambar/blob/main/gambar/pytorch-icon-1694x2048-jgwjy3ne.png" alt="PyTorch" width="75" height="auto"> &nbsp;
+<img src="https://github.com/imdipo/gambar/blob/main/gambar/Jupyter_logo.svg.png" alt="Jupyter" width="75" height="auto">
 
 
 
