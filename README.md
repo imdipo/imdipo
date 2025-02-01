@@ -1,3 +1,11 @@
+    <style>
+        .logo {
+            height: 50px;
+            margin-right: 10px;
+        }
+    </style>
+
+
 # Hello There 🙋‍♂️
 
 ## I'm Dipo 🧐 or you can call me Paupau/Brodip thats fine 😁
@@ -29,11 +37,5 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
 </ol>
 <br>
 For now, that’s all from me. I hope to achieve more in the future so I can share even more with you all! 👋
-    <style>
-        .logo {
-            height: 50px;
-            margin-right: 10px;
-        }
-    </style>
 
 
