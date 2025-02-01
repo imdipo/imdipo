@@ -1,11 +1,3 @@
-    <style>
-        .logo {
-            height: 50px;
-            margin-right: 10px;
-        }
-    </style>
-
-
 # Hello There 🙋‍♂️
 
 ## I'm Dipo 🧐 or you can call me Paupau/Brodip thats fine 😁
@@ -30,10 +22,10 @@ I also enjoy helping others understand concepts that I’ve already mastered, cr
 Consider there are many field in tech, for now i do have at least 3 of field that catch my interest, there are:
 <ol>
   <li> <b>Data Science & Machine Learning</b> </li> 
-   Aku selalu suka menemukan pola dari sebuah hal yang terjadi dalam suatu kasus, karena dapat memberikan informasi lebih dalam mengenai hal tersebut. Dengan Data Science dan Machine Learning, aku bisa mengeksplorasi data, menemukan insights, dan membangun model yang bisa memprediksi atau mengklasifikasikan sesuatu. <br>
-  <strong>Aku menggunakan:</strong>         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" class="logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="TensorFlow" class="logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" class="logo">
+Aku selalu suka menemukan pola dari sebuah hal yang terjadi dalam suatu kasus, karena dapat memberikan informasi lebih dalam mengenai hal tersebut. Dengan Data Science dan Machine Learning, aku bisa mengeksplorasi data, menemukan insights, dan membangun model yang bisa memprediksi atau mengklasifikasikan sesuatu.
+
+**Aku menggunakan:**  
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png) ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png) ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png)
 </ol>
 <br>
 For now, that’s all from me. I hope to achieve more in the future so I can share even more with you all! 👋
