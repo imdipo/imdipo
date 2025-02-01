@@ -27,7 +27,7 @@ Aku selalu suka menemukan pola dari sebuah hal yang terjadi dalam suatu kasus, k
 <img src="[[https://upload.wikimedia.org/wikipedia/commons/4/4d/Python_logo_2014.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png)" alt="Python" style="width: 50px; height: auto;"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" style="width: 50px; height: auto;"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" style="width: 50px; height: auto;"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" style="width: 50px; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/800px-TensorFlow_logo.svg.png" alt="TensorFlow" style="width: 50px; height: auto;"><img src="https://pytorch.org/assets/images/logo-large-220d3b51.svg" alt="PyTorch" style="width: 50px; height: auto;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Jupyter_logo.svg" alt="Jupyter" style="width: 50px; height: auto;">
 
 ![pythoned](https://github.com/user-attachments/assets/15af1a6a-64e1-4425-9963-e720e506a2a2)
-<img src="[images/scikit_learn_logo.png](https://github.com/imdipo/gambar/blob/main/gambar/0_aFhjkhfLZOJpdL6y.png" alt="Scikit-Learn">
+<img src="[https://github.com/imdipo/gambar/blob/main/gambar/0_aFhjkhfLZOJpdL6y.png]" alt="Scikit-Learn">
 
 
 </ol>
