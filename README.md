@@ -24,25 +24,25 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
   <li> <b>Data Science & Machine Learning</b> </li> 
 I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes <br>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/pythoned.png" alt="Python" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/pythoned.png" alt="Python">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Pandas_(software)">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/0_aFhjkhfLZOJpdL6y.png" alt="Pandas" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/0_aFhjkhfLZOJpdL6y.png" alt="Pandas">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Scikit-learn">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Scikit_learn_logo_small.svg.png" alt="Scikit-Learn">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/NumPy">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/thumbnail_numpy_tutorial_logo-neuraspike.png.png" alt="NumPy" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/thumbnail_numpy_tutorial_logo-neuraspike.png.png" alt="NumPy">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/PyTorch">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/pytorch-icon-1694x2048-jgwjy3ne.png" alt="PyTorch" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/pytorch-icon-1694x2048-jgwjy3ne.png" alt="PyTorch">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/TensorFlow">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="TensorFlow" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="TensorFlow">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Project_Jupyter">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Jupyter_logo.svg.png" alt="Jupyter" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Jupyter_logo.svg.png" alt="Jupyter">
 </a>
 
  <li><b>UI/UX & Front-end Development</b></li>
