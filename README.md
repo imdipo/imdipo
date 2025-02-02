@@ -24,67 +24,67 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
   <li> <b>Data Science & Machine Learning</b> </li> 
 <p margin-bottom: 10px;>I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes</p> <br>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Python.png" alt="Python" width="50" height="50">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Python.png" alt="Python" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Pandas_(software)">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Pandas.png" alt="Pandas" width="40" height="40">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Pandas.png" alt="Pandas" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Scikit-learn">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/scikit-learn.png" alt="Scikit-Learn" width="30" height="30">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/scikit-learn.png" alt="Scikit-Learn" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/NumPy">
     <img src="https://github.com/imdipo/gambar/blob/main/1/NumPy.png" alt="NumPy" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/PyTorch">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/PyTorch.png" alt="PyTorch" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/PyTorch.png" alt="PyTorch" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/TensorFlow">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/TensorFlow.png" alt="TensorFlow" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/TensorFlow.png" alt="TensorFlow" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Project_Jupyter">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Jupyter.png" alt="Jupyter" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Jupyter.png" alt="Jupyter" width="60" height="60">
 </a>
 <br><br>
  <li><b>UI/UX & Front-end Development</b></li>
 <p margin-bottom: 25px; margin-top:25px;> I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) </p><br>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript.png" alt="Javascript" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript.png" alt="Javascript" width="60" height="760">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/HTML5.png" alt="HTML" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/HTML5.png" alt="HTML" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/CSS3.png" alt="CSS" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/CSS3.png" alt="CSS" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/Bootstrap.png" alt="Boostrap" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/Bootstrap.png" alt="Boostrap" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Figma_(software)">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/Figma.png" alt="Figma" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/Figma.png" alt="Figma" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/PHP">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/PHP.png" alt="PHP" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/PHP.png" alt="PHP" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Laravel">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/Laravel.png" alt="Laravel" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/Laravel.png" alt="Laravel" width="60" height="60">
 </a>
 
-<br>
+<br><br>
 <li><b>Create Bot</b></li>
-<p margin-bottom: 25px; margin-top:25px;>I enjoy automation because it allows tasks to be handled efficiently. For now i interested with a Discord bot, because members can easily access the information they need without having to rely on or disturb others, creating a more seamless and chill experience.</p> <br>
+<p margin-bottom: 10px;>I enjoy automation because it allows tasks to be handled efficiently. For now i interested with a Discord bot, because members can easily access the information they need without having to rely on or disturb others, creating a more seamless and chill experience.</p> <br>
 
 <a href="https://en.wikipedia.org/wiki/TypeScript">
-    <img src="https://github.com/imdipo/gambar/blob/main/3/TypeScript.png" alt="TypeScript" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/TypeScript.png" alt="TypeScript" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Node.js">
-    <img src="https://github.com/imdipo/gambar/blob/main/3/Node.js.png" alt="NodeJS" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/Node.js.png" alt="NodeJS" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Discord.js">
-    <img src="https://github.com/imdipo/gambar/blob/main/3/Discord.js.png" alt="DiscordJS" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/Discord.js.png" alt="DiscordJS" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/MongoDB">
-    <img src="https://github.com/imdipo/gambar/blob/main/3/MongoDB.png" alt="MongoDB" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/MongoDB.png" alt="MongoDB" width="60" height="60">
 </a>
 </ol>
 <br>
