@@ -22,7 +22,7 @@ I also enjoy helping others understand concepts that I’ve already mastered, cr
 Consider there are many field in tech, for now i do have at least 3 of field that catch my interest, there are:
 <ol>
   <li> <b>Data Science & Machine Learning</b> </li> 
-I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes <br>
+<p margin-bottom: 25px;>I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes</p> <br>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://github.com/imdipo/gambar/blob/main/1/Python.png" alt="Python" width="75" height="75">
 </a> &nbsp;
@@ -46,7 +46,7 @@ I have always enjoyed discovering patterns in events within a given case, as it 
 </a>
 <br>
  <li><b>UI/UX & Front-end Development</b></li>
-I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) <br>
+<p margin-bottom: 25px; margin-top:25px;> I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) </p><br>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript.png" alt="Javascript" width="75" height="75">
@@ -72,7 +72,7 @@ I am highly interested in visually appealing designs, which is why I enjoy creat
 
 <br>
 <li><b>Create Bot</b></li>
-I enjoy automation because it allows tasks to be handled efficiently. For now i interested with a Discord bot, because members can easily access the information they need without having to rely on or disturb others, creating a more seamless and chill experience. <br>
+<p margin-bottom: 25px; margin-top:25px;>I enjoy automation because it allows tasks to be handled efficiently. For now i interested with a Discord bot, because members can easily access the information they need without having to rely on or disturb others, creating a more seamless and chill experience.</p> <br>
 
 <a href="https://en.wikipedia.org/wiki/TypeScript">
     <img src="https://github.com/imdipo/gambar/blob/main/3/TypeScript.png" alt="TypeScript" width="75" height="75">
