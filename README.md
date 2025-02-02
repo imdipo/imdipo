@@ -89,9 +89,9 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
 <br>
 For now, that’s all from me. I hope to achieve more in the future so I can share even more with you all! 👋
 
-<aside>
-    <p><strong>PS:</strong> If you want to look at my project, feel free.</p>
-</aside>
+<footer>
+    <p><i>PS: Feel free to check out my repository if you’re interested in my project </i></p>
+</footer>
 
 
 
