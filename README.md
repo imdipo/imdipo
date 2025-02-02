@@ -69,7 +69,6 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
 <a href="https://en.wikipedia.org/wiki/Laravel">
     <img src="https://github.com/imdipo/gambar/blob/main/2/Laravel.png" alt="Laravel" width="60" height="60">
 </a>
-
 <br><br>
 <li><b>Create Bot</b></li>
 <p margin-bottom: 10px;>I enjoy automation because it allows tasks to be handled efficiently. For now i interested with a Discord bot, because members can easily access the information they need without having to rely on or disturb others, creating a more seamless and chill experience.</p> <br>
