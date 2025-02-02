@@ -24,7 +24,7 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
   <li> <b>Data Science & Machine Learning</b> </li> 
 I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes <br>
 <a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/imdipo/gambar/main/1/pythoned.png" alt="Python">
+  <img src="https://github.com/imdipo/gambar/blob/main/1/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="Python">
 </a>
 
 <img src="https://github.com/imdipo/gambar/blob/main/1/0_aFhjkhfLZOJpdL6y.png" alt="Pandas">
