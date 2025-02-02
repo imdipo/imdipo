@@ -22,15 +22,15 @@ I also enjoy helping others understand concepts that I’ve already mastered, cr
 Consider there are many field in tech, for now i do have at least 3 of field that catch my interest, there are:
 <ol>
   <li> <b>Data Science & Machine Learning</b> </li> 
-<p margin-bottom: 25px;>I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes</p> <br>
+<p margin-bottom: 10px;>I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes</p> <br>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Python.png" alt="Python" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Python.png" alt="Python" width="50" height="50">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Pandas_(software)">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/Pandas.png" alt="Pandas" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/Pandas.png" alt="Pandas" width="40" height="40">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/Scikit-learn">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/scikit-learn.png" alt="Scikit-Learn" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/scikit-learn.png" alt="Scikit-Learn" width="30" height="30">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/NumPy">
     <img src="https://github.com/imdipo/gambar/blob/main/1/NumPy.png" alt="NumPy" width="75" height="75">
@@ -44,7 +44,7 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
 <a href="https://en.wikipedia.org/wiki/Project_Jupyter">
     <img src="https://github.com/imdipo/gambar/blob/main/1/Jupyter.png" alt="Jupyter" width="75" height="75">
 </a>
-<br>
+<br><br>
  <li><b>UI/UX & Front-end Development</b></li>
 <p margin-bottom: 25px; margin-top:25px;> I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) </p><br>
 
