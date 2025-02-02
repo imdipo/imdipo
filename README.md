@@ -19,7 +19,7 @@ For now, I'm someone who loves to dive deeper into subjects that catch my intere
 I also enjoy helping others understand concepts that I’ve already mastered, creating a win-win situation — they can make progress, and I get to reinforce my knowledge by teaching and explaining to others.
 <br> <br>
 ## What are your interests?
-Consider there are many field in tech, for now i do have at least 3 of field that caught my interest, there are:
+Considering there are many fields in tech, for now i do have at least 3 of field that caught my interest, they are:
 <ol>
   <li> <b>Data Science & Machine Learning</b> </li> 
 <p margin-bottom: 10px;>I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes</p> <br>
