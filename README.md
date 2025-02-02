@@ -33,7 +33,7 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
     <img src="https://github.com/imdipo/gambar/blob/main/1/scikit-learn.png" alt="Scikit-Learn" width="30" height="30">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/NumPy">
-    <img src="https://github.com/imdipo/gambar/blob/main/1/NumPy.png" alt="NumPy" width="75" height="75">
+    <img src="https://github.com/imdipo/gambar/blob/main/1/NumPy.png" alt="NumPy" width="60" height="75">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/PyTorch">
     <img src="https://github.com/imdipo/gambar/blob/main/1/PyTorch.png" alt="PyTorch" width="75" height="75">
