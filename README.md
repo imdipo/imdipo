@@ -27,13 +27,13 @@ I have always enjoyed discovering patterns in events within a given case, as it 
 <img src="https://github.com/imdipo/gambar/blob/main/1/pythoned.png" alt="Python">
 <img src="https://github.com/imdipo/gambar/blob/main/1/0_aFhjkhfLZOJpdL6y.png" alt="Pandas">
 <img src="https://github.com/imdipo/gambar/blob/main/1/Scikit_learn_logo_small.svg.png" alt="Scikit-Learn">
-<img src="https://github.com/imdipo/gambar/blob/main/1/thumbnail_numpy_tutorial_logo-neuraspike.png.png" alt="NumPy">
+<img src="https://github.com/imdipo/gambar/blob/main/1/download%202.png" alt="NumPy">
 <img src="https://github.com/imdipo/gambar/blob/main/1/pytorch-icon-1694x2048-jgwjy3ne.png" alt="PyTorch">
 <img src="https://github.com/imdipo/gambar/blob/main/1/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="TensorFlow">
 <img src="https://github.com/imdipo/gambar/blob/main/1/Jupyter_logo.svg.png" alt="Jupyter">
 
  <li><b>UI/UX & Front-end Development</b></li>
-I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.)
+I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) <br>
 
 <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript-Logo.png" alt="Javascript" width="75" height="75">
 <img src="https://github.com/imdipo/gambar/blob/main/2/CSS3_logo_and_wordmark.svg.png" alt="CSS" width="75" height="75">
@@ -41,6 +41,8 @@ I am highly interested in visually appealing designs, which is why I enjoy creat
 <img src="https://github.com/imdipo/gambar/blob/main/2/bootstrap-logo-shadow.png" alt="Boostrap" width="75" height="75">
 <img src="https://github.com/imdipo/gambar/blob/main/2/Figma-logo.svg.png" alt="Figma" width="75" height="75">
 <img src="https://github.com/imdipo/gambar/blob/main/2/PHP-logo.svg.png" alt="PHP" width="75" height="75">
+<img src="https://github.com/imdipo/gambar/blob/main/2/Laravel-Logo.wine%201.png" alt="Laravel" width="75" height="75">
+<img src="https://github.com/imdipo/gambar/blob/main/2/download%201.png" alt="Laragon" width="75" height="75">
 
 
 </ol>
