@@ -48,21 +48,44 @@ I have always enjoyed discovering patterns in events within a given case, as it 
  <li><b>UI/UX & Front-end Development</b></li>
 I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) <br>
 
-<img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript-Logo.png" alt="Javascript">
-<img src="https://github.com/imdipo/gambar/blob/main/2/HTML5.png" alt="HTML">
-<img src="https://github.com/imdipo/gambar/blob/main/2/CSS3.png" alt="CSS">
-<img src="https://github.com/imdipo/gambar/blob/main/2/Bootstrap.png" alt="Boostrap">
-<img src="https://github.com/imdipo/gambar/blob/main/2/Figma.png" alt="Figma">
-<img src="https://github.com/imdipo/gambar/blob/main/2/PHP.png" alt="PHP">
-<img src="https://github.com/imdipo/gambar/blob/main/2/Laravel.png" alt="Laravel">
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript-Logo.png" alt="Javascript" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/HTML5.png" alt="HTML" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/CSS">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/CSS3.png" alt="CSS" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/Bootstrap.png" alt="Boostrap" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Figma_(software)">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/Figma.png" alt="Figma" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/PHP">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/PHP.png" alt="PHP" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Laravel">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/Laravel.png" alt="Laravel" width="75" height="75">
+</a>
+
 <br>
 <li><b>Create Bot</b></li>
 I enjoy automation because it allows tasks to be handled efficiently. For now i interested with a Discord bot, because members can easily access the information they need without having to rely on or disturb others, creating a more seamless and chill experience. <br>
-<img src="https://github.com/imdipo/gambar/blob/main/3/TypeScript.png" alt="TypeScript">
-<img src="https://github.com/imdipo/gambar/blob/main/3/Node.js.png" alt="NodeJS">
-<img src="https://github.com/imdipo/gambar/blob/main/3/Discord.js.png" alt="DiscordJS">
-<img src="https://github.com/imdipo/gambar/blob/main/3/MongoDB.png" alt="Boostrap">
-  
+
+<a href="https://en.wikipedia.org/wiki/TypeScript">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/TypeScript.png" alt="TypeScript" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Node.js">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/Node.js.png" alt="NodeJS" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/Discord.js">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/Discord.js.png" alt="DiscordJS" width="75" height="75">
+</a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/MongoDB">
+    <img src="https://github.com/imdipo/gambar/blob/main/3/MongoDB.png" alt="MongoDB" width="75" height="75">
+</a>
 </ol>
 <br>
 For now, that’s all from me. I hope to achieve more in the future so I can share even more with you all! 👋
