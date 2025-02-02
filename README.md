@@ -49,7 +49,7 @@ Consider there are many field in tech, for now i do have at least 3 of field tha
 <p margin-bottom: 25px; margin-top:25px;> I am highly interested in visually appealing designs, which is why I enjoy creating things that are not only functional but also aesthetically pleasing. Front-end development allows me to bring those designs to life, transforming them into interactive and user-friendly applications. (But to be honest, iam new to this field 😓. But still I am eager to learn and explore more.) </p><br>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript.png" alt="Javascript" width="60" height="760">
+    <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript.png" alt="Javascript" width="60" height="60">
 </a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML">
     <img src="https://github.com/imdipo/gambar/blob/main/2/HTML5.png" alt="HTML" width="60" height="60">
