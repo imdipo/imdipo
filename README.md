@@ -22,7 +22,7 @@ I also enjoy helping others understand concepts that I’ve already mastered, cr
 Consider there are many field in tech, for now i do have at least 3 of field that catch my interest, there are:
 <ol>
   <li> <b>Data Science & Machine Learning</b> </li> 
-I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes
+I have always enjoyed discovering patterns in events within a given case, as it provides deeper insights into the subject. With Data Science and Machine Learning, I can explore data, uncover valuable insights, and build models that can predict or classify various outcomes <br>
 
 <img src="https://github.com/imdipo/gambar/blob/main/1/pythoned.png" alt="Python">
 <img src="https://github.com/imdipo/gambar/blob/main/1/0_aFhjkhfLZOJpdL6y.png" alt="Pandas">
@@ -38,7 +38,7 @@ I am highly interested in visually appealing designs, which is why I enjoy creat
 <img src="https://github.com/imdipo/gambar/blob/main/2/JavaScript-Logo.png" alt="Javascript">
 <img src="https://github.com/imdipo/gambar/blob/main/2/HTML5_logo_and_wordmark.svg.png" alt="HTML">
 <img src="https://github.com/imdipo/gambar/blob/main/2/CSS3_logo_and_wordmark.svg.png" alt="CSS">
-<img src="https://github.com/imdipo/gambar/blob/main/2/bootstrap-logo-shadow.png" alt="Boostrap">
+
 <img src="https://github.com/imdipo/gambar/blob/main/2/Figma-logo.svg.png" alt="Figma">
 <img src="https://github.com/imdipo/gambar/blob/main/2/PHP-logo.svg.png" alt="PHP">
 <img src="https://github.com/imdipo/gambar/blob/main/2/Laravel-Logo.wine%201.png" alt="Laravel">
